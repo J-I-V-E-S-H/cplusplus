@@ -1,5 +1,5 @@
 #include<iostream>
-#include<climits>
+
 using namespace std;
 
 void lin_search()
